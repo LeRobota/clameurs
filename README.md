@@ -28,4 +28,6 @@ In this first version, I chose not to include a motion sensor system for two rea
 
 All the links are available here, but not necessarily at the best price. second hand and reused materials is also highly encouraged.
 
+---
+
 **How to**
