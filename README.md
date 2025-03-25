@@ -1,4 +1,6 @@
-Clameur is an open-source device inspired by the speculative fiction novel La Zone du Dehors by Alain Damasio, designed for broadcasting sound excerpts.
+# Clameur : affordable autonomous speaker
+
+Clameur a device inspired by the speculative fiction novel La Zone du Dehors by Alain Damasio, designed for spreading sound excerpts.
 
 In the novel, the device is described as being the size of a fingernail, blending into urban furniture. If something or someone passes within a 10-meter radius, it activates and plays a voice, a cry, or music for a few seconds.
 
@@ -6,13 +8,13 @@ The goal is to spread unique, handcrafted messages. Unlike advertisements, Clame
 Alain Damasio on Clameurs: https://vimeo.com/26465714
 
 Having long been drawn to this idea, I decided to create similar objects while following several principles: an open-source device that is easy to assemble and disassemble, made as much as possible from repurposed materials, requiring no specific technical knowledge, 
-and above all, being affordable—this version costs around €10 per Clameur.
+and above all, being affordable. This version costs around €10 per Clameur.
 
 In this first version, I chose not to include a motion sensor system for two reasons: an infrared detector significantly increases the cost, and it makes the device more visible, making it easier to damage or steal.
 
 ---
 
-**What you need :**
+### **material needed**
 
 - [DF player mini](https://fr.farnell.com/dfrobot/dfr0299/dfplayer-mini-lecteur-mp3-arduino/dp/3517866?cfm=true)
 
@@ -28,6 +30,11 @@ In this first version, I chose not to include a motion sensor system for two rea
 
 All the links are available here, but not necessarily at the best price. second hand and reused materials is also highly encouraged.
 
+### ***tools needed***
+- soldering iron
+- solder wire
+- wire stripper (or possibly your teeth)
+
 ---
 
-**How to**
+### **How to**
