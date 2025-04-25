@@ -38,3 +38,23 @@ All the links are available here, but not necessarily at the best price. second 
 ---
 
 ### **How to**
+
+**1. Creating and Exporting the MP3**
+Start by creating an audio file however you like, then use Audacity (or another software) to add silence to your audio track using the “Silence” function under the “Generate” menu.
+
+![screenshot01](readMe_img01.jpg)
+
+
+**2. Soldering the Speaker and Battery Holder**
+Strip two pairs of female-to-female jumper wires cut in half.
+Solder the first pair to the speaker at the speaker’s soldering points, then solder the second pair to the pins of the battery holder, making sure to respect the + and - polarities.
+
+![screenshot01](readMe_img03.jpg)
+
+
+**3. Assembly and Gluing**
+
+Do a first test assembly by connecting your cables according to the diagram below.
+Once everything is working properly, glue the speaker to the 3D-printed case using hot glue. Put everything together — your Clameur is ready to go!
+
+![screenshot01](readMe_img04.jpg)
