@@ -12,6 +12,10 @@ and above all, being affordable. This version costs around €10 per Clameur.
 
 In this first version, I chose not to include a motion sensor system for two reasons: an infrared detector significantly increases the cost, and it makes the device more visible, making it easier to damage or steal.
 
+you can find here a full video tutorial (in french) : https://www.youtube.com/watch?v=OZWmAGcUp1M
+
+original post on my website : https://lerobota.com/clameurs/
+
 ---
 
 ### **material needed**
